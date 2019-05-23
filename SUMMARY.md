@@ -1,6 +1,6 @@
 “bui# Summary”
-* [第一章 README](README.md)
-* [第二章 行业标准](行业标准/README.md)
+* [README](README.md)
+* [第一章 行业标准](行业标准/README.md)
     - [BACnetIP](行业标准/BACnetIP/BACnetIP.md)
       - [1.新建通道](行业标准/BACnetIP/新建通道.md)
       - [2.新建驱动](行业标准/BACnetIP/新建驱动.md)
@@ -58,10 +58,9 @@
       - [4.编辑采集点表](行业标准/ModbusTCPClient/编辑采集点表.md)
       - [5.使用Excel编辑数据采集点](行业标准/ModbusTCPClient/使用Excel编辑数据采集点.md)
       - [6.模板](行业标准/ModbusTCPClient/模板.md)  	  
-* [第三章 国标](国标/README.md)
+* [第二章 国标](国标/README.md)
 
-* [第四章 厂家定制](厂家定制/README.md)
-	
+* [第三章 厂家定制](厂家定制/README.md)
 	- [Danfoss](厂家定制/Danfoss/Danfoss.md)
 	  - [1.新建通道](厂家定制/Danfoss/新建通道.md)
 	  - [2.新建驱动](厂家定制/Danfoss/新建驱动.md)
@@ -69,7 +68,6 @@
 	  - [4.编辑采集点表](厂家定制/Danfoss/编辑采集点表.md)
       - [5.使用Excel编辑数据采集点](厂家定制/Danfoss/使用Excel编辑数据采集点.md)
 	  - [6.模板](厂家定制/Danfoss/模板.md)
-	
 	- [MBus_EnergyMeter](厂家定制/MBus_EnergyMeter/MBus_EnergyMeter.md)
 	  - [1.新建通道](厂家定制/MBus_EnergyMeter/新建通道.md)
 	  - [2.新建驱动](厂家定制/MBus_EnergyMeter/新建驱动.md)
@@ -77,8 +75,7 @@
 	  - [4.编辑采集点表](厂家定制/MBus_EnergyMeter/编辑采集点表.md)
       - [5.使用Excel编辑数据采集点](厂家定制/MBus_EnergyMeter/使用Excel编辑数据采集点.md)
       - [6.模板](厂家定制/MBus_EnergyMeter/模板.md)
-* [第五章 PLC](PLC/README.md)
-	
+* [第四章 PLC](PLC/README.md)
 	- [Mitsubishi Fx3U](PLC/Mitsubishi Fx3U/Mitsubishi Fx3U.md)
 	  - [1.新建通道](PLC/Mitsubishi Fx3U/新建通道.md)
 	  - [2.新建驱动](PLC/Mitsubishi Fx3U/新建驱动.md)
@@ -86,7 +83,6 @@
 	  - [4.编辑采集点表](PLC/Mitsubishi Fx3U/编辑采集点表.md)
 	  - [5.使用Excel编辑数据采集点](PLC/Mitsubishi Fx3U/使用Excel编辑数据采集点.md)
       - [6.模板](PLC/Mitsubishi Fx3U/模板.md)
-	
 	- [Siemens S7-200 Network](PLC/S7200-Network/S7200-Network.md)
 	  - [1.新建通道](PLC/S7200-Network/新建通道.md)
 	  - [2.新建驱动](PLC/S7200-Network/新建驱动.md)
@@ -94,7 +90,6 @@
 	  - [4.编辑采集点表](PLC/S7200-Network/编辑采集点表.md)
 	  - [5.使用Excel编辑数据采集点](PLC/S7200-Network/使用Excel编辑数据采集点.md)
 	  - [6.模板](PLC/S7200-Network/模板.md)
-	  
 	- [Siemens S7-200 PPI](PLC/S7200-PPI/S7-200PPI.md)
 	  - [1.新建通道](PLC/S7200-PPI/新建通道.md)
 	  - [2.新建驱动](PLC/S7200-PPI/新建驱动.md)
@@ -109,7 +104,7 @@
 	  - [4.编辑采集点表](PLC/S71200-Network/编辑采集点表.md)
 	  - [5.使用Excel编辑数据采集点](PLC/S71200-Network/使用Excel编辑数据采集点.md)
 	  - [6.模板](PLC/S71200-Network/模板.md)
-* [第六章 其它](其它/README.md)	  
+* [第五章 其它](其它/README.md)	  
 
   
 
