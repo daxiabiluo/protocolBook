@@ -10,6 +10,5 @@ ModbusRTU_over_TCP驱动采用网口连接，发送ModbusRTU报文。
 - 新建驱动
 - 新建设备
 - 编辑采集点表
-- 使用Excel编辑数据采集点
-- 模板
+- Modbus地址分配
 
