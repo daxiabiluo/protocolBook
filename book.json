@@ -1,0 +1,15 @@
+{
+    "gitbook": "3.x.x",
+    "pdf": {
+        "pageNumbers": true,
+        "fontFamily": "Arial",
+        "fontSize": 16,
+        "paperSize": "a4",
+        "margin": {
+            "right": 22,
+            "left": 22,
+            "top": 16,
+            "bottom": 16
+        }
+    }
+}
