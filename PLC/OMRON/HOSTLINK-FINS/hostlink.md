@@ -1,6 +1,6 @@
-# OMRON-HOSTLINK
+# HOSTLINK-FINS
 
-HOSTLINK协议是欧姆龙 的串口通信协议。
+HOSTLINK-FINS协议是欧姆龙 的串口通信协议。
 
 具体配置如下
 
