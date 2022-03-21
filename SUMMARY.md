@@ -8,6 +8,7 @@
         * [3.新建设备](行业标准/BACnetIP/新建设备.md)
         * [4.编辑采集点表](行业标准/BACnetIP/编辑采集点表.md)
         * [5.搜索功能](行业标准/BACnetIP/搜索功能.md)
+        * [6.常见问题](行业标准/BACnetIP/常见问题.md)
     * [BACnetMSTP](行业标准/BACnetMSTP/BACnetMSTP.md)
         * [1.新建通道](行业标准/BACnetMSTP/新建通道.md)
         * [2.新建驱动](行业标准/BACnetMSTP/新建驱动.md)
