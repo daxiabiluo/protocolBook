@@ -207,6 +207,7 @@
 	    * [3.新建设备](PLC/Fuji/SPH_NET/新建设备.md)
 	    * [4.编辑采集点表](PLC/Fuji/SPH_NET/编辑采集点表.md)
 	* [网关对于已支持plc连接说明](PLC/网关对于已支持plc连接说明.md)
+	* [网关连接西门子PLC](PLC/Siemens/网关连接西门子PLC.md)
 * [第五章 其它](其它/README.md)
 * [第六章 帮助](帮助/README.md)
   * [使用Excel编辑数据采集点](帮助/使用Excel编辑数据采集点.md)
