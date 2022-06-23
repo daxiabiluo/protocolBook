@@ -4,17 +4,17 @@
 
 #### 1.连接出错
 
-![](./assets/连接错误.jpg)
+![](./Siemens/assets/连接错误.jpg)
 
 <center>配置工具连接出错</center>
 
-![](./assets/gw连接错误.jpg)
+![](./Siemens/assets/gw连接错误.jpg)
 
 <center>网关连接出错</center>
 
 配置工具出现**无法发出报文，出现"connect err"**或者运行日志中出现**"connect failed!"**
 
-![](./assets/PCpingPLC.jpg)
+![](./Siemens/assets/PCpingPLC.jpg)
 
 <center>无法ping通PLC设备</center>
 
@@ -28,11 +28,11 @@
 
 #### 2.握手失败
 
-![](./assets/握手错误.jpg)
+![](./Siemens/assets/握手错误.jpg)
 
 <center>配置工具握手失败</center>
 
-![](./assets/网关握手失败.jpg)
+![](./Siemens/assets/网关握手失败.jpg)
 
 <center>网关握手失败</center>
 
@@ -40,13 +40,13 @@
 
 1. 检查驱动是否选择正确。
 
-   ![](./assets/驱动名称.jpg)
+   ![](./Siemens/assets/驱动名称.jpg)
 
    <center>驱动选择</center>
 
 2. 检查槽号机架号是否选择正确  如果槽号机架号未知，可咨询PLC设备的供应商或厂家。
 
-   ![](./assets/槽号机架号.jpg)
+   ![](./Siemens/assets/槽号机架号.jpg)
 
    <center>槽号与机架号</center>
 
@@ -54,11 +54,11 @@
 
 #### 3.PUT/GET通信访问未设置
 
-![](./assets/putget.jpg)
+![](./Siemens/assets/putget.jpg)
 
 <center>配置工具握手成功</center>
 
-![](./assets/网关握手成功.jpg)
+![](./Siemens/assets/网关握手成功.jpg)
 
 <center>网关握手成功</center>
 
@@ -90,13 +90,13 @@
 
 DB1500.800.0 编号1500的 分区为DB块，地址为800.0。数据类型为short（PLC中为INT）
 
-![](./assets/DB1500.800.jpg)
+![](./Siemens/assets/DB1500.800.jpg)
 
 <center>地址DB1500.800.0 转换</center>
 
 I.50.1  分区为I，地址为50.1，因为数据类型为 bool（PLC中为bit），所以地址中填写 50.01
 
-![](./assets/I50.01.jpg)
+![](./Siemens/assets/I50.01.jpg)
 
 <center>地址I.50.1 转换</center>
 
