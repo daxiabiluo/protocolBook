@@ -229,6 +229,7 @@
 	* [网关连接西门子PLC](PLC/Siemens/网关连接西门子PLC.md)
 	* [西门子PLC采集内容为中文时注意事项](PLC/西门子PLC采集内容为中文时注意事项.md)
 	* [西门子PLC常见问题](PLC/Siemens/常见问题.md)
+	* [西门子数据类型对照表](PLC/Siemens/西门子数据类型对照表.md)
 * [第五章 厂家定制](厂家定制/README.md)
     * [捷先DLT645](厂家定制/JX_DLT645/JX_DLT645.md)
         * [1.新建通道](厂家定制/JX_DLT645/新建通道.md)
